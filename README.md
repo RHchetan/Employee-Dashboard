@@ -32,7 +32,7 @@ The dashboard provides insights into:
 
 ## 📂 How to Use This Report
 
-1. Open the dashboard using the provided **Looker Studio link**.
+1. Open the dashboard using the provided **[Looker Studio link](https://lookerstudio.google.com/reporting/ed22a50a-2c33-40af-84b0-68db77a07c5f)**.
 2. Explore the interactive dashboards to analyze employee and HR data.
 3. Use filters and date selectors to drill down into specific metrics such as department, designation, or time periods.
 4. Review the **global location map** to visualize employee concentrations across different regions.
