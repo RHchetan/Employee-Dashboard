@@ -2,7 +2,7 @@
 
 An interactive and insightful Employee Dashboard designed for HR analytics and organizational management. This dashboard provides a comprehensive overview of employee distribution, salary data, exit rates, and gender diversity metrics across different departments and designations.
 
-![Employee Dashboard Screenshot](images/employee_dashboard.png)
+![Employee Dashboard Screenshot](https://github.com/RHchetan/Employee-Dashboard/blob/main/Screenshot%202025-06-13%20222554.png?raw=true)
 
 ---
 
